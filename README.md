@@ -90,6 +90,11 @@ I care deeply about **measurable impact**: whether that's a well-optimized SQL q
 |---|---|
 | [🔄 NestJS CI/CD Pipeline](https://github.com/ThimiraSadeesha/nestJs-ci-cd-pipeline) | Production-ready CI/CD setup for NestJS applications |
 | [🔐 Go Auth API](https://github.com/ThimiraSadeesha/go-auth-api) | Lightweight, high-performance authentication API built with Go |
+| [🤖 N8N AI Recruitment Pipeline](https://github.com/ThimiraSadeesha/n8n-ai-recruitment-pipeline) | Automated AI-powered recruitment workflow built with N8N |
+| [🗄️ Repliq DB CLI](https://github.com/ThimiraSadeesha/repliq-db-cli) | CLI tool for database replication and management tasks |
+| [🧘 Zent App](https://github.com/ThimiraSadeesha/zent-app) | Mobile application built with Flutter |
+| [☸️ Node.js on Kubernetes](https://github.com/ThimiraSadeesha/nodejs-k8s) | Node.js application deployment and orchestration with Kubernetes |
+| [🐘 Postgres Replication (Docker)](https://github.com/ThimiraSadeesha/postgres-replication-docker) | PostgreSQL primary-replica replication setup using Docker |
 | [🌐 My Portfolio](https://github.com/ThimiraSadeesha/MyPortfolio) | Personal portfolio showcasing projects and experience |
 
 ---
